@@ -1,0 +1,26 @@
+Invalid Name: Sreekar123
+Record skipped.
+Record skipped.
+Invalid/Duplicate ID: 25MCMT28
+Record skipped.
+
+ID       Name    S1  S2  S3  S4  S5  Total  Percent  Grade  CGPA
+25MCMT28 Sreeven   85  90  78  88  92  433    86.60    A+      9.00
+25MCMT02 Anish   70  65  72  68  75  350    70.00    B+      7.00
+25MCMT03 Vidhya   95  94  96  93  97  475    95.00    O      10.00
+25MCMT01 Sai   48  43  41  50  52  234    46.80    F      0.00
+
+Class Statistics
+Class Average Percentage : 74.599998
+Highest Percentage       : 95.000000
+Lowest Percentage        : 46.799999
+
+Grade Distribution
+O  : 1
+A+ : 1
+A  : 0
+B+ : 1
+B  : 0
+C  : 0
+D  : 0
+F  : 1
